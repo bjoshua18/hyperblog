@@ -6,3 +6,5 @@ viviendo en España
 Hoy hablaremos de su historia
 
 En cámara parece alto pero en realidad no lo es tanto
+
+Hoy es estudiante en Desarrollo Web
